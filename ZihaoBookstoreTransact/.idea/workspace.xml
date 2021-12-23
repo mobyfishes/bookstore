@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85f99ab5-ec73-4cfd-8207-f5c506324a17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9780349003641_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9780593086889_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9780593203224_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781250220257_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781408894750_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781501135972_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781529109443_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781635575569_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781788282369_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9781982182915_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/9789389440188_l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/A-Star-for-Christmas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/A-Wrinkle-in-Time.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Arthurian-Romances.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Children-of-Blood-and-Bone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Code-of-Ethics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Court-of-Mist-and-Fury.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Dune.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Fahrenheit-451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Little-Dorrit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Little-Women.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Mad-about-Ewe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Modern-Romance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Mystery-Writers-Handbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Beautiful-Mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Brothers-Karamazov.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Girl-Who-Drank-the-Moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Iliad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Magic-and-Mystery-of-Trees.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/The-Mystery-of-Mrs.-Christie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/Twilight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/covid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/moby-dick.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/wildland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/best.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/classics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/deals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/fantasy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/popular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/romance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/header/cart-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/header/login-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/header/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/bookhub-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/bookstore-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/icons8-facebook-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/icons8-instagram-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/icons8-sorting-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/icons8-twitter-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/site/sort-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryBookList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryBookListItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ConfirmationTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/HeaderDropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/HeaderSearchBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/HomeCategoryList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/ApiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Checkout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Confirmation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/NotFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ZihaoBookstoreTransact" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="21Tb71o4kDBh70ImQ4kErThyS0o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/views" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.19770116" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\client\src\views" />
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\server\src\main\java\business\customer" />
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\server\src\main\java\business\order" />
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\server" />
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CS5244\ZihaoBookstoreTransact\client\src\components" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/ZihaoBookstoreTransact/api/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua" />
+                <option name="value" value="&quot;Google Chrome&quot;;v=&quot;95&quot;, &quot;Chromium&quot;;v=&quot;95&quot;, &quot;;Not A Brand&quot;;v=&quot;99&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-mobile" />
+                <option name="value" value="?0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-platform" />
+                <option name="value" value="&quot;Windows&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:8081" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:8081/" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en,zh-CN;q=0.9,zh;q=0.8" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;cart&quot;: {&#10;    &quot;items&quot;: [&#10;      {&#10;        &quot;book&quot;: {&#10;          &quot;bookId&quot;: 1008,&#10;          &quot;title&quot;: &quot;A Wrinkle in Time&quot;,&#10;          &quot;author&quot;: &quot;Madeleine LEngle&quot;,&#10;          &quot;description&quot;: &quot;&quot;,&#10;          &quot;price&quot;: 669,&#10;          &quot;rating&quot;: 0,&#10;          &quot;isPublic&quot;: true,&#10;          &quot;isFeatured&quot;: false,&#10;          &quot;categoryId&quot;: 1002,&#10;          &quot;imageFile&quot;: &quot;A-Wrinkle-in-Time.jpg&quot;&#10;        },&#10;        &quot;quantity&quot;: 1&#10;      }&#10;    ]&#10;  },&#10;  &quot;customerForm&quot;: {&#10;    &quot;name&quot;: &quot;Zihao Cai&quot;,&#10;    &quot;address&quot;: &quot;&quot;,&#10;    &quot;phone&quot;: &quot;540-998-0986&quot;,&#10;    &quot;email&quot;: &quot;123123@qq.com&quot;,&#10;    &quot;ccNumber&quot;: &quot;5555443433232122&quot;,&#10;    &quot;ccExpiryMonth&quot;: 12,&#10;    &quot;ccExpiryYear&quot;: 2021&#10;  }&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/ZihaoBookstoreTransact/api/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua" />
+                <option name="value" value="&quot;Google Chrome&quot;;v=&quot;95&quot;, &quot;Chromium&quot;;v=&quot;95&quot;, &quot;;Not A Brand&quot;;v=&quot;99&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-mobile" />
+                <option name="value" value="?0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-platform" />
+                <option name="value" value="&quot;Windows&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:8081" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:8081/" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en,zh-CN;q=0.9,zh;q=0.8" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;cart&quot;: {&#10;    &quot;items&quot;: [&#10;      {&#10;        &quot;book&quot;: {&#10;          &quot;bookId&quot;: 1008,&#10;          &quot;title&quot;: &quot;A Wrinkle in Time&quot;,&#10;          &quot;author&quot;: &quot;Madeleine LEngle&quot;,&#10;          &quot;description&quot;: &quot;&quot;,&#10;          &quot;price&quot;: 669,&#10;          &quot;rating&quot;: 0,&#10;          &quot;isPublic&quot;: true,&#10;          &quot;isFeatured&quot;: false,&#10;          &quot;categoryId&quot;: 1001,&#10;          &quot;imageFile&quot;: &quot;A-Wrinkle-in-Time.jpg&quot;&#10;        },&#10;        &quot;quantity&quot;: 1&#10;      }&#10;    ]&#10;  },&#10;  &quot;customerForm&quot;: {&#10;    &quot;name&quot;: &quot;Zihao Cai&quot;,&#10;    &quot;address&quot;: &quot;&quot;,&#10;    &quot;phone&quot;: &quot;540-998-0986&quot;,&#10;    &quot;email&quot;: &quot;123123@qq.com&quot;,&#10;    &quot;ccNumber&quot;: &quot;5555443433232122&quot;,&#10;    &quot;ccExpiryMonth&quot;: 12,&#10;    &quot;ccExpiryYear&quot;: 2021&#10;  }&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/ZihaoBookstoreOrder/api/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua" />
+                <option name="value" value="&quot;Google Chrome&quot;;v=&quot;95&quot;, &quot;Chromium&quot;;v=&quot;95&quot;, &quot;;Not A Brand&quot;;v=&quot;99&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-mobile" />
+                <option name="value" value="?0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sec-ch-ua-platform" />
+                <option name="value" value="&quot;Windows&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:8081" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:8081/" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en,zh-CN;q=0.9,zh;q=0.8" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;cart&quot;: {&#10;    &quot;items&quot;: [&#10;      {&#10;        &quot;book&quot;: {&#10;          &quot;bookId&quot;: 1008,&#10;          &quot;title&quot;: &quot;A Wrinkle in Time&quot;,&#10;          &quot;author&quot;: &quot;Madeleine LEngle&quot;,&#10;          &quot;description&quot;: &quot;&quot;,&#10;          &quot;price&quot;: 669,&#10;          &quot;rating&quot;: 0,&#10;          &quot;isPublic&quot;: true,&#10;          &quot;isFeatured&quot;: false,&#10;          &quot;categoryId&quot;: 1001,&#10;          &quot;imageFile&quot;: &quot;A-Wrinkle-in-Time.jpg&quot;&#10;        },&#10;        &quot;quantity&quot;: 1&#10;      }&#10;    ]&#10;  },&#10;  &quot;customerForm&quot;: {&#10;    &quot;name&quot;: &quot;Zihao Cai&quot;,&#10;    &quot;address&quot;: &quot;&quot;,&#10;    &quot;phone&quot;: &quot;540-998-0986&quot;,&#10;    &quot;email&quot;: &quot;123123@qq.com&quot;,&#10;    &quot;ccNumber&quot;: &quot;5555443433232122&quot;,&#10;    &quot;ccExpiryMonth&quot;: 12,&#10;    &quot;ccExpiryYear&quot;: 2021&#10;  }&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration name="test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/server/src/test/resources/test.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : ZihaoBookstoreTransact : server.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ZihaoBookstoreTransact" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ee2da6f4-8672-4b00-864e-97b2942fd8aa" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12368" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : ZihaoBookstoreTransact : server.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.test#2" />
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test#2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f99ab5-ec73-4cfd-8207-f5c506324a17" name="Default Changelist" comment="" />
+      <created>1637967854738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637967854738</updated>
+      <workItem from="1637967857649" duration="2819000" />
+      <workItem from="1637974005085" duration="15447000" />
+      <workItem from="1638085354927" duration="190000" />
+      <workItem from="1638151719138" duration="12543000" />
+      <workItem from="1638220139816" duration="23651000" />
+      <workItem from="1638328955501" duration="5249000" />
+      <workItem from="1638575634711" duration="3926000" />
+      <workItem from="1638689866619" duration="4208000" />
+      <workItem from="1638694264951" duration="2543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/api/ApiResource.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java</url>
+          <line>45</line>
+          <properties class="business.order.DefaultOrderService" method="getOrderDetails">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

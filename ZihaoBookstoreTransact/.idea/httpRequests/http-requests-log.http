@@ -1,0 +1,200 @@
+POST http://localhost:8080/ZihaoBookstoreTransact/api/orders
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: http://localhost:8081
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8081/
+Accept-Language: en,zh-CN;q=0.9,zh;q=0.8
+Content-Type: application/json
+
+{
+  "cart": {
+    "items": [
+      {
+        "book": {
+          "bookId": 1008,
+          "title": "A Wrinkle in Time",
+          "author": "Madeleine LEngle",
+          "description": "",
+          "price": 669,
+          "rating": 0,
+          "isPublic": true,
+          "isFeatured": false,
+          "categoryId": 1002,
+          "imageFile": "A-Wrinkle-in-Time.jpg"
+        },
+        "quantity": 1
+      }
+    ]
+  },
+  "customerForm": {
+    "name": "Zihao Cai",
+    "address": "",
+    "phone": "540-998-0986",
+    "email": "123123@qq.com",
+    "ccNumber": "5555443433232122",
+    "ccExpiryMonth": 12,
+    "ccExpiryYear": 2021
+  }
+}
+
+<> 2021-11-26T220437.400.txt
+
+###
+
+POST http://localhost:8080/ZihaoBookstoreTransact/api/orders
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: http://localhost:8081
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8081/
+Accept-Language: en,zh-CN;q=0.9,zh;q=0.8
+Content-Type: application/json
+
+{
+  "cart": {
+    "items": [
+      {
+        "book": {
+          "bookId": 1008,
+          "title": "A Wrinkle in Time",
+          "author": "Madeleine LEngle",
+          "description": "",
+          "price": 669,
+          "rating": 0,
+          "isPublic": true,
+          "isFeatured": false,
+          "categoryId": 1001,
+          "imageFile": "A-Wrinkle-in-Time.jpg"
+        },
+        "quantity": 1
+      }
+    ]
+  },
+  "customerForm": {
+    "name": "Zihao Cai",
+    "address": "",
+    "phone": "540-998-0986",
+    "email": "123123@qq.com",
+    "ccNumber": "5555443433232122",
+    "ccExpiryMonth": 12,
+    "ccExpiryYear": 2021
+  }
+}
+
+<> 2021-11-26T220417.400.txt
+
+###
+
+POST http://localhost:8080/ZihaoBookstoreOrder/api/orders
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: http://localhost:8081
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8081/
+Accept-Language: en,zh-CN;q=0.9,zh;q=0.8
+Content-Type: application/json
+
+{
+  "cart": {
+    "items": [
+      {
+        "book": {
+          "bookId": 1008,
+          "title": "A Wrinkle in Time",
+          "author": "Madeleine LEngle",
+          "description": "",
+          "price": 669,
+          "rating": 0,
+          "isPublic": true,
+          "isFeatured": false,
+          "categoryId": 1001,
+          "imageFile": "A-Wrinkle-in-Time.jpg"
+        },
+        "quantity": 1
+      }
+    ]
+  },
+  "customerForm": {
+    "name": "Zihao Cai",
+    "address": "",
+    "phone": "540-998-0986",
+    "email": "123123@qq.com",
+    "ccNumber": "5555443433232122",
+    "ccExpiryMonth": 12,
+    "ccExpiryYear": 2021
+  }
+}
+
+<> 2021-11-26T220349.404.html
+
+###
+
+POST http://localhost:8080/ZihaoBookstoreOrder/api/orders
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: http://localhost:8081
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8081/
+Accept-Language: en,zh-CN;q=0.9,zh;q=0.8
+Content-Type: application/json
+
+{
+  "cart": {
+    "items": [
+      {
+        "book": {
+          "bookId": 1008,
+          "title": "A Wrinkle in Time",
+          "author": "Madeleine LEngle",
+          "description": "",
+          "price": 669,
+          "rating": 0,
+          "isPublic": true,
+          "isFeatured": false,
+          "categoryId": 1001,
+          "imageFile": "A-Wrinkle-in-Time.jpg"
+        },
+        "quantity": 1
+      }
+    ]
+  },
+  "customerForm": {
+    "name": "Zihao Cai",
+    "address": "",
+    "phone": "540-998-0986",
+    "email": "123123@qq.com",
+    "ccNumber": "5555443433232122",
+    "ccExpiryMonth": 12,
+    "ccExpiryYear": 2021
+  }
+}
+
+<> 2021-11-26T220328.404.html
+
+###
+
